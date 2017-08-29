@@ -1,0 +1,52 @@
+[
+    {
+        "AUT": {
+            "ValueShare": 49.70,
+            "VolumeShare": 49.20
+        },
+        "BEL": {
+            "ValueShare": 5.80,
+            "VolumeShare": 4.50
+        },
+        "DNK": {
+            "ValueShare": 69.80,
+            "VolumeShare": 74.10
+        },
+        "FRA": {
+            "ValueShare": 20.10,
+            "VolumeShare": 21.80
+        },
+        "DEU": {
+            "ValueShare": 36.40,
+            "VolumeShare": 29.00
+        },
+        "ITA": {
+            "ValueShare": 29.20,
+            "VolumeShare": 34.50
+        },
+        "NLD": {
+            "ValueShare": 42.90,
+            "VolumeShare": 42.00
+        },
+        "NOR": {
+            "ValueShare": 57.40,
+            "VolumeShare": 76.00
+        },
+        "POL": {
+            "ValueShare": 40.60,
+            "VolumeShare": 33.10
+        },
+        "RUS": {
+            "ValueShare": 0.90,
+            "VolumeShare": 0.90
+        },
+        "SWE": {
+            "ValueShare": 54.50,
+            "VolumeShare": 62.30
+        },
+        "USA": {
+            "ValueShare": 1.50,
+            "VolumeShare": 1.50
+        }
+    }
+]

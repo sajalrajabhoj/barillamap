@@ -1,0 +1,56 @@
+[
+    {
+        "AUSTRIA": {
+            "ValueShare": 49.7,
+            "VolumeShare": 49.2
+        },
+        "BELGIUM": {
+            "ValueShare": 5.8,
+            "VolumeShare": 4.5
+        },
+        "DENMARK": {
+            "ValueShare": 69.8,
+            "VolumeShare": 74.1
+        },
+        "FRANCE": {
+            "ValueShare": 20.1,
+            "VolumeShare": 21.8
+        },
+        "GERMANY": {
+            "ValueShare": 36.4,
+            "VolumeShare": 29
+        },
+        "ITALY": {
+            "ValueShare": 29.2,
+            "VolumeShare": 34.5
+        },
+        "NETHERLANDS": {
+            "ValueShare": 42.9,
+            "VolumeShare": 42
+        },
+        "NORWAY": {
+            "ValueShare": 57.4,
+            "VolumeShare": 76
+        },
+        "POLAND": {
+            "ValueShare": 40.6,
+            "VolumeShare": 33.1
+        },
+        "RUSSIA": {
+            "ValueShare": 0.9,
+            "VolumeShare": 0.9
+        },
+        "SWEDEN": {
+            "ValueShare": 54.5,
+            "VolumeShare": 62.3
+        },
+        "UNITED STATES": {
+            "ValueShare": 1.5,
+            "VolumeShare": 1.5
+        },
+        "ZIMBAMWE": {
+            "ValueShare": 1.5,
+            "VolumeShare": 1.5
+        }
+    }
+]
